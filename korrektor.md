@@ -1,6 +1,6 @@
 # t.ly/korrektor
 
-**maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/textkorrektor.txt  
+**maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
 **Stand:** 3. Mai 2026  
 **Lizenz:** CC BY 4.0  
 **Lizenzhinweis:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
