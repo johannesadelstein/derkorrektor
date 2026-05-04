@@ -92,7 +92,13 @@ Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
 Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
 inhaltlich suchen kann.
 
+## Prompt
 
+Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
+
+ab hier bis zur Zeile `========= USER-EINGABE: =========`.
+
+´´´´
 ========= BEGINN PROMPT =========
 
 Hilf dabei, Texte zu korrigieren.
@@ -158,3 +164,5 @@ Falls der Anwender zustimmt:
 7.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
 
 ========= USER-EINGABE: =========
+
+´´´´
