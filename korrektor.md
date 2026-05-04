@@ -70,7 +70,7 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 
 ### 6. Foto oder Datei
 
-Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
+Schicken Sie von ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
 > vorgehen wie is.gd/korrektor
