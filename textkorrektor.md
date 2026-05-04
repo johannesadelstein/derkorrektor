@@ -1,4 +1,4 @@
-# derkorrektor
+# textkorrektor
 
 **bit.ly/textkorrektor**  
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/textkorrektor.txt  
@@ -74,7 +74,7 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
-> vorgehen wie bit.ly/derkorrektor
+> vorgehen wie bit.ly/textkorrektor
 
 ### 7. Grenzen
 
@@ -146,7 +146,7 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet einfach Angefü
 
 6. Füge eine Infozeile für den User hinzu:
   „____________
-Informationen zum Prompt unter: https://bit.ly/derkorrektor“ 
+Informationen zum Prompt unter: https://bit.ly/textkorrektor“ 
 
 7. Frage am Ende: „Soll ich eine vorsichtig korrigierte Version des Textes 
 ausgeben?“
