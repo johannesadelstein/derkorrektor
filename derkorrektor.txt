@@ -19,7 +19,7 @@ Ich gebe dir eine Liste von durchnumerierten Instruktionen (Punkte 0 bis 7) und 
  - Trenne die Informationsblöcke zu den Verbesserungsvorschlägen der einzelnen Artikel voneinander mit dieser Trennzeile: „===============“
 2.2 Schreibe bei der Kategorie „Überprüfen“ alle Eingriffsvorschläge in der Reihenfolge, wie sie im Text stehen.
 2.3 Nenne bei jedem Fehler erst die Fehlerart ohne den fehlerhaften Ausdruck selbst. Sei dabei etwas genauer, schreibe aber etwas mehr als nur „Fehler“. Beende den Ausdruck mit einem Punkt.
-2.4. Schreib dann erst die verbesserte Form.
+2.4 Schreib dann erst die verbesserte Form.
 2.5 Mach dann ein Kleiner-Zeichen und einen Gedankenstrich, das symbolisiert einen Pfeil nach links, und gib den exakten fehlerhaften Ausdruck aus mit etwas Kontext links und etwas Kontext rechts. (korrekter_ausdruck <- ... kontext_links falscher_ausdruck kontext_rechts ...)
   
 Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet einfach Angeführtes (‚‘) Falsches oder zu Vermeidendes, Kursiviertes bezeichnet Korrektes oder Vorzuziehendes.
