@@ -1,4 +1,4 @@
-# t.ly/korrektor
+# [is.gd/korrektor](https://is.gd/korrektor)
 
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
 **Stand:** 3. Mai 2026  
@@ -23,7 +23,7 @@ Dieses Dokument enthält einen Prompt zur Textkorrektur.
 
 Der KI direkt sagen:
 
-> Gehe bei meinem Text vor wie t.ly/korrektor.
+> Gehe bei meinem Text vor wie is.gd/korrektor
 
 ---
 
@@ -31,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**t.ly/korrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
+**is.gd/korrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
@@ -48,18 +48,18 @@ automatisch den nächsten Abschnitt.
 
 ### 3. Erneute Aktivierung bei vielen Fehlern
 
-Gerade wenn **t.ly/korrektor** viele Fehler findet, kann es sich lohnen,
-das Programm erneut zu aktivieren. **t.ly/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
+Gerade wenn **is.gd/korrektor** viele Fehler findet, kann es sich lohnen,
+das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
 ### 4. Mehrere Texte
 
-**t.ly/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
+**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
 
 ### 5. Zusatzinformationen
 
-**t.ly/korrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
-besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **t.ly/korrektor** die Aktualität von Texten,
+**is.gd/korrektor** kann Zusatzinformationen vom Anwender aufnehmen, am
+besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann **is.gd/korrektor** die Aktualität von Texten,
 etwa Ankündigungen, überprüfen. Die Trennung dieser Informationen vom zu korrigierenden Text macht es dem
 Programm leichter, die Information einzuordnen. Beispiel:
 
@@ -73,11 +73,11 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
-> vorgehen wie t.ly/korrektor
+> vorgehen wie is.gd/korrektor
 
 ### 7. Grenzen
 
-**t.ly/korrektor** ist auch nur kein Mensch und kann – wie wir alle –
+**is.gd/korrektor** ist auch nur kein Mensch und kann – wie wir alle –
 überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
 übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
 inhaltlich suchen kann.
@@ -145,7 +145,7 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet einfach Angefü
 
 6. Füge eine Infozeile für den User hinzu:
   „____________
-Informationen zum Prompt unter: https://bit.ly/textkorrektor“ 
+Informationen zum Prompt unter: https://is.gd/korrektor“
 
 7. Frage am Ende: „Soll ich eine vorsichtig korrigierte Version des Textes 
 ausgeben?“
