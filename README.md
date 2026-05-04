@@ -74,6 +74,7 @@ Beispiel:
 ```text
 Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 ========= ZU KORRIGIERENDE TEXTE: =========
+```
 
 ### 6. Foto oder Datei
 
