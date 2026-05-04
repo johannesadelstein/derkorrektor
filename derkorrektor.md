@@ -96,7 +96,7 @@ inhaltlich suchen kann.
 
 Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
 
-ab hier bis zur Zeile `========= USER-EINGABE: =========`.
+ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`).
 
 ========= BEGINN DES PROMPTS =========
 
