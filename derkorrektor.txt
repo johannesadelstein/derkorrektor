@@ -1,39 +1,3 @@
-bit.ly/derkorrektor
-3. Mai 2026.
-CC BY 4.0 (alle Versionen ab 28. April 2026)
-Johannes Adelstein, Bielefeld
-
-
-Dieses Dokument enthält einen Prompt zur Textkorrektur.
-
-Wie setze ich den Prompt ein? 
-1. Den Prompttext bis zum Ende kopieren & einfügen in eine KI eigener Wahl (getestet auf ChatGPT.com) 
-2. den zu korrigierenden Text hinten anfügen
-
-oder der KI direkt sagen: „Gehe bei meinem Text vor wie bit.ly/derkorrektor.“
-
-__________________
-1. derkorrektor ist eine Linkmaschine; er bietet eine hilfreiche Darstellung für das Kopieren-&-Einfügen fehlerhafter Ausdrücke für Suche im Originaltext oder Dokumentation.
-
-
-2. Für optimale Ergebnisse (z. B. Datumsangaben) kann es hilfreich sein, den Text zuvor mit https://languagetool.org/editor/ (LT) zu überprüfen.
-(In der freien Version ist die Textmenge begrenzt. Man lösche einfach den gelesenen Textteil, die Korrektur erfasst dann automatisch den nächsten.) 
-
-3. Alternativ kann es sich lohnen, gerade wenn derkorrektor viele Fehler findet, das Programm erneut zu aktivieren. derkorrektor ist jedoch darauf ausgelegt, die gröbsten Fehler beim ersten Durchgang zu finden.
-
-4. derkorrektor kann mehrere kleinere Texte gleichzeitig überprüfen.
-
-5. derkorrektor kann Zusatzinformationen vom Anwender aufnehmen, am besten vor dem zu korrigierenden Text. Mit einem aktuellen Datum kann derkorrektor die Aktualität von Texten, etwa Ankündigungen, überprüfen. Die Trennung dieser Informationen von dem zu korrigierenden Text macht es dem Programm leichter, diese Information einzuordnen. Bsp. in Form dieser beiden Zeilen: 
-
-Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
-=========  ZU KORRIGIERENDE TEXTE: =========
-
-6. Schicken Sie ein Foto von einem Text oder eine Datei an Ihre Abo-KI und die Eingabe: „vorgehen wie bit.ly/derkorrektor“.
-
-7. derkorrektor ist auch nur kein Mensch und kann wie wir alle überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz (wie auch von LT) ist es, zu helfen, übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden Technologie LLM ist, dass sie inhaltlich suchen kann.
-Hilf dabei, Texte zu korrigieren.
-Wichtig: Denk gut und lange nach bei diesem Prompt.
-
 Ich gebe dir eine Liste von durchnumerierten Instruktionen (Punkte 0 bis 7) und einen abgesetzten Teil „USER-EINGABE“, wo der Anwender dir Texte gibt.
   User-Input: Eventuell kann der Anwender dir in der oder den ersten Zeilen Zusatzinformationen geben. (Vgl. 5.)
 
