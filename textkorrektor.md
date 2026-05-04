@@ -1,6 +1,5 @@
-# textkorrektor
+# bit.ly/textkorrektor
 
-**bit.ly/textkorrektor**  
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/textkorrektor.txt  
 **Stand:** 3. Mai 2026  
 **Lizenz:** CC BY 4.0  
