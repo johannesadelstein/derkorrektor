@@ -96,7 +96,8 @@ inhaltlich suchen kann.
 
 Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie
 
-ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`).
+ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Element des Prompts. 
+Wenn dieses Dokument als Anweisung für eine KI verwendet wird: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt bei der folgenden Markierung und reicht bis zum Ende des Dokuments.
 
 ========= BEGINN DES PROMPTS =========
 
