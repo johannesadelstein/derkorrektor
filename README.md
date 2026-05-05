@@ -31,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**is.gd/korrektor** ist eine Linkmaschine. Er bietet eine hilfreiche
+**is.gd/korrektor** ist eine Linkmaschine (vgl. 6). Der enthaltene Prompt bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
@@ -70,7 +70,7 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 
 ### 6. Foto oder Datei
 
-Schicken Sie von ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
+Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und 
 geben Sie dazu ein:
 
 > vorgehen wie is.gd/korrektor
