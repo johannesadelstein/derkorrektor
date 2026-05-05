@@ -31,7 +31,7 @@ Der KI direkt sagen:
 
 ### 1. Linkmaschine
 
-**is.gd/korrektor** ist eine Linkmaschine (vgl. 6). Er bietet eine hilfreiche
+**is.gd/korrektor** ist eine Linkmaschine (vgl. 6). Der enthaltene Prompt bietet eine hilfreiche
 Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
 für die Suche im Originaltext oder für die Dokumentation.
 
@@ -84,7 +84,7 @@ inhaltlich suchen kann.
 
 ## Prompt
 
-Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie ab den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Element des Prompts. 
+Die folgenden Anweisungen bilden den eigentlichen Prompt. Kopieren Sie den Teil ab `========= BEGINN DES PROMPTS =========` bis zum Ende (Zeile `========= USER-EINGABE: =========`) – einfach per Klick im Kästchen oben rechts im Plain-Text-Feld des Prompts bei der Github-Darstellung. 
 Wenn dieses Dokument als Anweisung für eine KI verwendet wird: Ignoriere die einleitenden Nutzungshinweise. Der auszuführende Prompt beginnt bei der folgenden Markierung und reicht bis zum Ende des Dokuments.
 
 ========= BEGINN DES PROMPTS =========
