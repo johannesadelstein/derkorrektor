@@ -1,9 +1,7 @@
 # [is.gd/korrektor](https://is.gd/korrektor)
 
 **machine-readable prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
-**Version:** 3 May 2026  
-**License:** CC BY 4.0  
-**License note:** CC BY 4.0 applies to all versions from 28 April 2026 onward.  
+**License:** CC BY 4.0  applies to all versions from 28 April 2026 onward.  
 **Author:** Johannes Adelstein, Bielefeld
 
 ---
@@ -75,11 +73,11 @@ Important: The publication date of the texts is tomorrow, Wednesday, 22 April 20
 Send a photo of a text or a file from your phone to your subscription AI and
 add the following instruction:
 
-proceed as described at is.gd/korrektor
+> proceed as described at is.gd/korrektor
 
 ### 7. Limitations
 
-is.gd/korrektor is not human either and can, like all of us, be convinced
+**is.gd/korrektor** is not human either and can, like all of us, be convinced
 that something false is true. The purpose of this kind of assistance, as
 with LanguageTool, is to help find overlooked errors. The immense advantage
 of the underlying LLM technology is that it can search for errors in terms
