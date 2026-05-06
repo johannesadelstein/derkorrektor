@@ -50,9 +50,9 @@ Gerade wenn **is.gd/korrektor** viele Fehler findet, kann es sich lohnen,
 das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
-### 4. Mehrere Texte
+### 4. Text-Input
 
-**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
+**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen. Er kann auch fremdsprachige Texte verarbeiten, ist aber auf deutsche Texte spezialisiert.
 
 ### 5. Zusatzinformationen
 
