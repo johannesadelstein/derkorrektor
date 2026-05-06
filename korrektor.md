@@ -1,9 +1,8 @@
 # [is.gd/korrektor](https://is.gd/korrektor)
 
 **maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
-**Stand:** 3. Mai 2026  
-**Lizenz:** CC BY 4.0  
-**Lizenzhinweis:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
+**Stand:** 6. Mai 2026  
+**Lizenz:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
 **Autor:** Johannes Adelstein, Bielefeld
 
 ---
@@ -52,9 +51,9 @@ Gerade wenn **is.gd/korrektor** viele Fehler findet, kann es sich lohnen,
 das Programm erneut zu aktivieren. **is.gd/korrektor** ist jedoch darauf ausgelegt, die gröbsten Fehler bereits
 im ersten Durchgang zu finden.
 
-### 4. Mehrere Texte
+### 4. Texte-Input
 
-**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen.
+**is.gd/korrektor** kann mehrere kleinere Texte gleichzeitig überprüfen. Er kann auch fremdsprachige Texte verarbeiten, ist aber auf deutsche Texte spezialisiert.
 
 ### 5. Zusatzinformationen
 
