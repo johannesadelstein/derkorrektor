@@ -30,9 +30,8 @@ Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und frei
 
 ### 1. Linkmaschine
 
-**is.gd/korrektor** ist eine Linkmaschine (vgl. Möglichkeit 2, s. oben, und Punkt 6). Der enthaltene Prompt bietet eine hilfreiche
-Darstellung für das Kopieren und Einfügen fehlerhafter Ausdrücke, etwa
-für die Suche im Originaltext oder für die Dokumentation.
+**is.gd/korrektor** ist eine Linkmaschine (vgl. Möglichkeit 2, s. oben, und Punkt 6). Damit lassen sich redaktionelle KI-Prozesse für die Arbeit an Texten mit einfachen, reproduzierbaren Mitteln organisieren. Ziel ist ein einfacherer Umgang mit Textversionen und Arbeitsabläufen.  
+Der enthaltene Prompt gibt fehlerhafte Ausdrücke in einer Form aus, die das Kopieren und Einfügen erleichtert – etwa für die Suche im Originaltext oder für die Dokumentation.
 
 ### 2. Vorprüfung mit LanguageTool
 
