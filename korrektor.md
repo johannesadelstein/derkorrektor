@@ -17,7 +17,7 @@ Geben Sie der KI ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und frei
 
 > Gehe bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach.
 
-### Möglichkeit 2: im Code, kopieren-&-einfügen
+### Möglichkeit 2: im Code, kopieren & einfügen
 
 1. Den Prompttext bis zum Ende kopieren und in eine KI eigener Wahl
    einfügen.  
