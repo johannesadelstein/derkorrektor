@@ -4,6 +4,11 @@
 **Stand:** 7. Mai 2026  
 **Lizenz:** CC BY 4.0 gilt für alle Versionen ab dem 28. April 2026.  
 **Autor:** Johannes Adelstein, Bielefeld
+# [is.gd/korrektor](https://is.gd/korrektor)
+
+**maschinenlesbarer Prompt:** https://raw.githubusercontent.com/johannesadelstein/textkorrektor/refs/heads/main/korrektor.txt  
+**Lizenz:** CC BY 4.0 für alle Versionen ab dem 28. April 2026.  
+**Autor:** Johannes Adelstein, Bielefeld
 
 ---
 
@@ -72,10 +77,8 @@ Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo
 
 ### 7. Grenzen
 
-**is.gd/korrektor** ist auch nur kein Mensch und kann – wie wir alle –
-überzeugt sein, dass etwas Falsches wahr ist. Sinn solcher Assistenz, wie auch bei LanguageTool, ist es, zu helfen,
-übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie
-inhaltlich suchen kann.
+**is.gd/korrektor** is.gd/korrektor ist auch nur kein Mensch. Er kann – wie wir alle – überzeugt sein, dass etwas Falsches wahr ist. Sinn eines solchen Assistenzwerkzeugs ist es, wie auch bei LanguageTool, zu helfen, übersehenes Falsches zu finden. Der immense Vorteil der zugrundeliegenden LLM-Technologie ist, dass sie inhaltlich suchen kann. 
+Dennoch liest dieses Werkzeug nicht wie ein Mensch. Es kann strukturelle Auffälligkeiten übersehen. Etwa eine im Fließtext versteckte Zwischenüberschrift – Formatierungen sind für das Werkzeug nicht in derselben Weise sichtbar wie für einen menschlichen Leser. Ob ein Foto Abhilfe schaffen kann, muss noch getestet werden.
 
 ## Prompt
 
