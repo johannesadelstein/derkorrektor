@@ -141,7 +141,7 @@ Hinweis: Bei Schreibbeispielen in den Punkten 3 und 4 bezeichnet einfach Angefü
   „____________
 Informationen zum Prompt unter: https://is.gd/korrektor“
 
-7. Frage am Ende: „Soll ich eine vorsichtig korrigierte Version des Textes  ausgeben?“
+7. Frage am Ende: „Soll ich eine vorsichtig korrigierte Version des Textes ausgeben?“
 Falls der Anwender zustimmt: 
 7.1 prüfe gründlich die Vorschläge aus deinem vorherigen Output und ordne sie intern in die beiden Kategorien “richtige oder sehr wahrscheinlich richtige Vorschläge” und “unsichere oder wohl falsche Vorschläge”
 7.2 gib anschließend eine vorsichtig korrigierte Fassung aus, in die ausschließlich die Vorschläge der Kategorie „richtige oder sehr wahrscheinlich richtige Vorschläge“ eingearbeitet sind.
