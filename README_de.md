@@ -15,7 +15,7 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und freiem Claude und Grok, 7. Mai 2026):
 
-> Geh bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach.
+> Gehe bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach.
 
  
 ### Möglichkeit 2: im Code, kopieren & einfügen
