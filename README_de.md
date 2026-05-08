@@ -10,17 +10,17 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 ## Wie setze ich den Prompt ein?
 
-### Möglichkeit 1: Kopieren und Einfügen
+### Möglichkeit 1: Elegant.
+
+Geben Sie der KI ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und freiem Claude und Grok, 7. Mai 2026):
+
+> Gehe bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach.
+
+### Möglichkeit 2: Im Code, kopieren-&-einfügen
 
 1. Den Prompttext bis zum Ende kopieren und in eine KI eigener Wahl
    einfügen.  
 2. Den zu korrigierenden Text hinten anfügen.
-
-### Möglichkeit 2: Direkter Verweis
-
-Der KI direkt sagen (getestet auf Claude und Grok, 7. Mai 2026):
-
-> Gehe bei meinem Text vor wie is.gd/korrektor
 
 ---
 
@@ -67,7 +67,7 @@ Wichtig: Erscheinungsdatum der Texte ist morgen, Mittwoch, 22. April 2026.
 
 ### 6. Foto oder Datei
 
-Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und lassen Sie sie korrigieren.
+Schicken Sie von Ihrem Handy ein Foto von einem Text oder eine Datei an Ihre Abo-KI und lassen Sie das korrigieren!
 
 ### 7. Grenzen
 
