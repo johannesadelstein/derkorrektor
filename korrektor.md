@@ -13,7 +13,7 @@ Dieses Dokument enthält einen Prompt zur mehrsprachigen Textkorrektur.
 
 ### Möglichkeit 1: elegant
 
-Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf Abo-ChatGPT und freiem Claude und Grok, 7. Mai 2026):
+Geben Sie der KI Ihren Text und sagen Sie ihr (getestet auf [Abo-ChatGPT](https://chatgpt.com/) und freiem [Claude](https://claude.ai), [chat.deepseek.com](http://chat.deepseek.com) und [Grok](https://grok.com/), 9. Mai 2026):
 
 > Gehe bei meinem Text vor wie is.gd/korrektor und denk dabei gut nach.
 
